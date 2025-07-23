@@ -1,4 +1,4 @@
-### 🧰 codecamp-backend-mento
+### 🧰 Codecamp backend mento
 
 >Node.js와 NestJS 기반의 백엔드 실습 프로젝트입니다.  
 >RESTful API 설계부터 인증, 결제, 파일 업로드, 배포까지 다양한 기능을 포함한 실전형 백엔드 개발 환경을 구축합니다.
